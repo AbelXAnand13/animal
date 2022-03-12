@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B5054B5E27DABEB90074F4C7 /* animalRecords.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = animalRecords.txt; sourceTree = "<group>"; };
 		B595A5B427D566D900E9FFCE /* animal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = animal; sourceTree = BUILT_PRODUCTS_DIR; };
 		B595A5B727D566D900E9FFCE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B595A5BF27D5674F00E9FFCE /* animal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = animal.cpp; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 				B595A5B727D566D900E9FFCE /* main.cpp */,
 				B595A5BF27D5674F00E9FFCE /* animal.cpp */,
 				B595A5C227D5680D00E9FFCE /* animal.h */,
+				B5054B5E27DABEB90074F4C7 /* animalRecords.txt */,
 			);
 			path = animal;
 			sourceTree = "<group>";
